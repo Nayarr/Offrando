@@ -36,6 +36,7 @@ Deal: title, description, price, imageURL, postedBy, votes, timestamps
 
 (Optionnels) : Comment, Vote si tu modularises
 
+https://www.drawdb.app/editor?shareId=dea0f698f32c3e43c8dd7215574343b6
 # ⚙️ PHASE 2 — Environnement & Préparation
 # 2.1 Initialisation des projets
 Création du monorepo ou deux dossiers client/ et server/
